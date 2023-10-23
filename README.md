@@ -23,3 +23,5 @@ I am a first-year computer science student at Collegium Da Vinci with around 1.5
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/hellorudy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/miko%C5%82aj-j%C3%B3zefiak/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+<a href="https://www.github.com/mjozefiak">My current github account</a>
